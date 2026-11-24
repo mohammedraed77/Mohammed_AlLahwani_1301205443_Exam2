@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exam2</string>
+    <string name="title_mode_activity">Mode</string>
+
+    <!-- MainActivity -->
+    <string name="login_title">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="error_invalid_email">Enter a valid email address</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+
+    <!-- ModeActivity & Tabs -->
+    <string name="tab_first">First</string>
+    <string name="tab_second">Second</string>
+    <string name="tab_third">Third</string>
+    <string name="btn_set_mode">Set Mode</string>
+    <string name="mode_light">Light</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_system">System</string>
+
+    <!-- Fragment Contents -->
+    <string name="first_tab_content">First Tab</string>
+    <string name="second_tab_content">Second Tab</string>
+    <string name="third_tab_content">Third Tab</string>
+</resources>
